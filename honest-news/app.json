@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "honest-news",
+    "name": "Honest News",
     "slug": "honest-news",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "honestnews",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#2A4365"
     },
     "assetBundlePatterns": [
       "**/*"
